@@ -1,0 +1,25 @@
+2024-07-08 10:03:46,011 - INFO - 	Train Loss: 2481.422, 	Valid Loss: 2562.344
+2024-07-08 10:04:12,070 - INFO - 	Train Loss: 2591.415, 	Valid Loss: 2600.744
+2024-07-08 10:04:38,992 - INFO - 	Train Loss: 2606.210, 	Valid Loss: 2535.141
+2024-07-08 10:05:05,152 - INFO - 	Train Loss: 2611.883, 	Valid Loss: 2562.072
+2024-07-08 10:05:31,949 - INFO - 	Train Loss: 2590.073, 	Valid Loss: 2556.803
+2024-07-08 10:05:58,064 - INFO - 	Train Loss: 2627.436, 	Valid Loss: 2623.584
+2024-07-08 10:06:24,728 - INFO - 	Train Loss: 2576.993, 	Valid Loss: 2565.353
+2024-07-08 10:06:51,485 - INFO - 	Train Loss: 2602.456, 	Valid Loss: 2554.123
+2024-07-08 10:07:17,531 - INFO - 	Train Loss: 2589.126, 	Valid Loss: 2591.071
+2024-07-08 10:07:44,256 - INFO - 	Train Loss: 2583.896, 	Valid Loss: 2518.513
+2024-07-08 10:07:44,612 - INFO - Test Loss: 2580.024
+2024-07-08 10:08:34,337 - INFO - the value of bleu is: 0.0
+2024-07-09 10:53:05,681 - INFO - 	Train Loss: 2481.422, 	Valid Loss: 2562.344
+2024-07-09 10:53:19,949 - INFO - 	Train Loss: 2591.415, 	Valid Loss: 2600.744
+2024-07-09 10:53:34,387 - INFO - 	Train Loss: 2606.210, 	Valid Loss: 2535.141
+2024-07-09 10:53:48,742 - INFO - 	Train Loss: 2611.883, 	Valid Loss: 2562.072
+2024-07-09 10:54:03,110 - INFO - 	Train Loss: 2590.073, 	Valid Loss: 2556.803
+2024-07-09 10:54:17,408 - INFO - 	Train Loss: 2627.436, 	Valid Loss: 2623.584
+2024-07-09 10:54:31,654 - INFO - 	Train Loss: 2576.993, 	Valid Loss: 2565.353
+2024-07-09 10:54:45,972 - INFO - 	Train Loss: 2602.456, 	Valid Loss: 2554.123
+2024-07-09 10:55:00,225 - INFO - 	Train Loss: 2589.126, 	Valid Loss: 2591.071
+2024-07-09 10:55:14,609 - INFO - 	Train Loss: 2583.896, 	Valid Loss: 2518.513
+2024-07-09 10:55:14,833 - INFO - Test Loss: 2580.024
+2024-07-09 10:55:19,521 - INFO - the value of bleu is: 0.0
+2024-07-09 11:42:42,606 - INFO - 	Train Loss: 2481.422, 	Valid Loss: 2562.344

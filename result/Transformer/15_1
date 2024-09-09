@@ -1,0 +1,3 @@
+2024-07-11 19:01:32,537 - INFO - ---- Epoch 1/10 | Train loss: 5.9487 | Valid loss: 5.3064 | Best Valid loss: 5.3064 | Best epoch: 1
+2024-07-11 19:09:26,538 - INFO - ---- Epoch 2/10 | Train loss: nan | Valid loss: nan | Best Valid loss: 5.3064 | Best epoch: 1
+2024-07-11 19:17:12,127 - INFO - ---- Epoch 3/10 | Train loss: nan | Valid loss: nan | Best Valid loss: 5.3064 | Best epoch: 1

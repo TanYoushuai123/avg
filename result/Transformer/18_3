@@ -1,0 +1,14 @@
+2024-07-14 22:02:47,053 - INFO - ---- Epoch 1/19 | Train loss: 5.7562 | Valid loss: 4.9776 | Best Valid loss: 4.9776 | Best epoch: 1
+2024-07-14 22:24:14,940 - INFO - ---- Epoch 2/19 | Train loss: 4.5405 | Valid loss: 4.3518 | Best Valid loss: 4.3518 | Best epoch: 2
+2024-07-14 22:45:42,628 - INFO - ---- Epoch 3/19 | Train loss: 3.9922 | Valid loss: 3.9647 | Best Valid loss: 3.9647 | Best epoch: 3
+2024-07-14 23:07:10,376 - INFO - ---- Epoch 4/19 | Train loss: 3.6035 | Valid loss: 3.6602 | Best Valid loss: 3.6602 | Best epoch: 4
+2024-07-14 23:28:38,636 - INFO - ---- Epoch 5/19 | Train loss: 3.3030 | Valid loss: 3.4867 | Best Valid loss: 3.4867 | Best epoch: 5
+2024-07-14 23:50:07,974 - INFO - ---- Epoch 6/19 | Train loss: 3.0630 | Valid loss: 3.3271 | Best Valid loss: 3.3271 | Best epoch: 6
+2024-07-15 00:11:37,101 - INFO - ---- Epoch 7/19 | Train loss: 2.8594 | Valid loss: 3.2349 | Best Valid loss: 3.2349 | Best epoch: 7
+2024-07-15 00:33:06,295 - INFO - ---- Epoch 8/19 | Train loss: 2.6881 | Valid loss: 3.1833 | Best Valid loss: 3.1833 | Best epoch: 8
+2024-07-15 00:54:35,883 - INFO - ---- Epoch 9/19 | Train loss: 2.5325 | Valid loss: 3.1039 | Best Valid loss: 3.1039 | Best epoch: 9
+2024-07-15 01:16:05,178 - INFO - ---- Epoch 10/19 | Train loss: 2.3942 | Valid loss: 3.1038 | Best Valid loss: 3.1038 | Best epoch: 10
+2024-07-15 01:37:34,481 - INFO - ---- Epoch 11/19 | Train loss: 2.2657 | Valid loss: 3.0734 | Best Valid loss: 3.0734 | Best epoch: 11
+2024-07-15 01:59:03,925 - INFO - ---- Epoch 12/19 | Train loss: 2.1494 | Valid loss: 3.0527 | Best Valid loss: 3.0527 | Best epoch: 12
+2024-07-15 02:20:32,584 - INFO - ---- Epoch 13/19 | Train loss: 2.0350 | Valid loss: 3.0698 | Best Valid loss: 3.0527 | Best epoch: 12
+2024-07-15 02:52:07,016 - INFO - {'bleu_2': 0.24613065162735345, 'bleu_3': 0.1639557210365588, 'bleu_4': 0.11067711649918502}

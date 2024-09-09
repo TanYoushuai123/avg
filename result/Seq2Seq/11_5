@@ -1,0 +1,12 @@
+2024-07-08 13:19:05,093 - INFO - 	Train Loss:   4.941, 	Valid Loss:   4.773
+2024-07-08 13:20:56,497 - INFO - 	Train Loss:   4.186, 	Valid Loss:   4.371
+2024-07-08 13:22:48,665 - INFO - 	Train Loss:   3.827, 	Valid Loss:   4.235
+2024-07-08 13:24:40,890 - INFO - 	Train Loss:   3.637, 	Valid Loss:   4.101
+2024-07-08 13:26:33,448 - INFO - 	Train Loss:   3.442, 	Valid Loss:   3.995
+2024-07-08 13:28:25,128 - INFO - 	Train Loss:   3.337, 	Valid Loss:   4.017
+2024-07-08 13:30:16,327 - INFO - 	Train Loss:   3.186, 	Valid Loss:   3.935
+2024-07-08 13:32:08,047 - INFO - 	Train Loss:   3.086, 	Valid Loss:   3.924
+2024-07-08 13:33:59,620 - INFO - 	Train Loss:   2.984, 	Valid Loss:   3.859
+2024-07-08 13:35:51,067 - INFO - 	Train Loss:   2.922, 	Valid Loss:   3.898
+2024-07-08 13:35:51,425 - INFO - Test Loss: 3.856
+2024-07-08 13:36:43,394 - INFO - the value of bleu is: 0.13416586761704308

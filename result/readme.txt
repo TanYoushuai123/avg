@@ -1,0 +1,1 @@
+x_y: where x means the number of bit and y represents for n in our method.
